@@ -1,0 +1,20 @@
+cask_args appdir: "/Applications"
+
+brew "asdf"
+brew "composer"
+brew "git"
+brew "pure"
+cask "istat-menus"
+cask "cmd-eikana"
+cask "rectangle"
+cask "amazon-q"
+cask "github"
+cask "arc"
+cask "slack"
+cask "transmit"
+cask "cursor"
+cask "zoom"
+cast "font-jetbrains-mono"
+cask "adobe-creative-cloud"
+mas "1Password", id: 443987910
+mas "DaVinci Resolve", id: 571213070
