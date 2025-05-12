@@ -1,6 +1,7 @@
 brew "asdf"
 brew "composer"
 brew "git"
+brew "libyaml"
 cask "adobe-creative-cloud"
 cask "amazon-q"
 cask "arc"
